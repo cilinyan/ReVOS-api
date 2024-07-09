@@ -19,7 +19,17 @@ e9b4310661495ddd47dedcac1e289621cf8f5dff89c0bb8b65f7699f748d5cff  ReVOS/mask_dic
  ```
 
 ## File Structure
-...
+```
+ReVOS
+├── JPEGImages  # JPEGImages contains all images of the train set and valid set
+│   ├── <video1  >
+│   ├── <video2  >
+│   └── <video...>
+├── mask_dict.json                # mask dict (train set & valid set)
+├── mask_dict_foreground.json     # foreground mask dict (train set & valid set)
+├── meta_expressions_train_.json  # meta expressions (train set)
+└── meta_expressions_valid_.json  # meta expressions (valid set)
+```
 
 ## BibTeX
 Please consider to cite VISA if it helps your research.

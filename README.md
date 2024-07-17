@@ -31,6 +31,11 @@ ReVOS
 └── meta_expressions_valid_.json  # meta expressions (valid set)
 ```
 
+## Acknowledgement
+ReVOS largely borrows videos from [MOSE]( https://github.com/henghuiding/MOSE-api), [MeViS]( https://github.com/henghuiding/MeViS), LV-VIS(https://github.com/haochenheheda/LVVIS), [OVIS](https://songbai.site/ovis/), [TAO](https://github.com/Ali2500/BURST-benchmark?tab=License-1-ov-file
+https://github.com/TAO-Dataset/tao) and [UVO](https://arxiv.org/pdf/2104.04691). 
+The copyright for these videos is held by the organizers of MOSE, MeViS, LV-VIS, TAO and UVO.
+
 ## BibTeX
 Please consider to cite VISA if it helps your research.
 

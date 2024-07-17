@@ -32,7 +32,7 @@ ReVOS
 ```
 
 ## Acknowledgement
-ReVOS largely borrows videos from [MOSE]( https://github.com/henghuiding/MOSE-api), [MeViS]( https://github.com/henghuiding/MeViS), LV-VIS(https://github.com/haochenheheda/LVVIS), [OVIS](https://songbai.site/ovis), [TAO](https://arxiv.org/pdf/2005.10356) and [UVO](https://arxiv.org/pdf/2104.04691). 
+ReVOS largely borrows videos from [MOSE]( https://github.com/henghuiding/MOSE-api), [MeViS]( https://github.com/henghuiding/MeViS), [LV-VIS](https://github.com/haochenheheda/LVVIS), [OVIS](https://songbai.site/ovis), [TAO](https://arxiv.org/pdf/2005.10356) and [UVO](https://arxiv.org/pdf/2104.04691). 
 The copyright for these videos is held by the organizers of MOSE, MeViS, LV-VIS, TAO and UVO.
 
 ## BibTeX

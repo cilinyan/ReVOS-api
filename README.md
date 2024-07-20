@@ -40,10 +40,10 @@ Please consider to cite VISA if it helps your research.
 
 ```latex
 @article{yan2024visa,
-      title={VISA: Reasoning Video Object Segmentation via Large Language Models}, 
-      author={Yan, Cilin and Wang, Haochen and Yan, Shilin and Jiang, Xiaolong and Hu, Yao and Kang, Guoliang and Xie, Weidi and Gavves, Efstratios},
-      journal={arXiv preprint arXiv:2407.11325},
-      year={2024}
+  title={VISA: Reasoning Video Object Segmentation via Large Language Models},
+  author={Yan, Cilin and Wang, Haochen and Yan, Shilin and Jiang, Xiaolong and Hu, Yao and Kang, Guoliang and Xie, Weidi and Gavves, Efstratios},
+  journal={arXiv preprint arXiv:2407.11325},
+  year={2024}
 }
 ```
 
